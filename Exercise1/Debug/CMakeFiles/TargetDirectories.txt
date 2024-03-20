@@ -1,0 +1,4 @@
+/Users/TommasoBasile/Desktop/PCS2024/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/SumValues.dir
+/Users/TommasoBasile/Desktop/PCS2024/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/RIPASSO.dir
+/Users/TommasoBasile/Desktop/PCS2024/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/edit_cache.dir
+/Users/TommasoBasile/Desktop/PCS2024/PCS2024_Exercises/Esercitazione_1_IO/Debug/CMakeFiles/rebuild_cache.dir
